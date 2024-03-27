@@ -1,6 +1,6 @@
 
 #ifndef TESTS_H
-#define TEST_H
+#define TESTS_H
 
 // create a tree with a value
 void testCreateTree();
